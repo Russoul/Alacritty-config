@@ -1,0 +1,10 @@
+[font.normal]
+family = "EversonMono Nerd Font"
+
+[[keyboard.bindings]]
+chars = "\u001B[105;5u"
+key = "I"
+mods = "Control"
+
+[shell]
+program = "/opt/homebrew/bin/fish"
